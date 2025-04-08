@@ -166,6 +166,9 @@ window.addEventListener('touchend',(e)=>{
 })
 
 container.addEventListener('mouseover',()=>{
+
   
+
   document.querySelector('.love').style.opacity = "1";
+
 })
